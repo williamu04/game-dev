@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBwrH9pQgOUsG9guliBnRBJnHBuhHI3hGpHlT20Qm6ZnKVn3gJ2qmNN/hFJwfNey06JA94Njzw4md7gvRVV8qQ==",
+  "success": true,
+  "projectFilePath": "D:\\Media\\Documents\\GitHub\\GameDev\\test\\test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3/vulnerabilities/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
+}

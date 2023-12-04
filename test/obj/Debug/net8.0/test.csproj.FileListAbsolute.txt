@@ -1,0 +1,15 @@
+D:\Media\Documents\GitHub\GameDev\test\bin\Debug\net8.0\test.exe
+D:\Media\Documents\GitHub\GameDev\test\bin\Debug\net8.0\test.deps.json
+D:\Media\Documents\GitHub\GameDev\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\Media\Documents\GitHub\GameDev\test\bin\Debug\net8.0\test.dll
+D:\Media\Documents\GitHub\GameDev\test\bin\Debug\net8.0\test.pdb
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.sourcelink.json
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.dll
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\refint\test.dll
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.pdb
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\Media\Documents\GitHub\GameDev\test\obj\Debug\net8.0\ref\test.dll
