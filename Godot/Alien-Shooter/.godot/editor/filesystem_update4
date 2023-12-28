@@ -1,0 +1,10 @@
+res://scenes/levels/outside.tscn
+res://scenes/levels/house.tres
+res://scenes/enemies/drone.tscn
+res://scenes/objects/wall_light.tscn
+res://scenes/objects/simple_light.tscn
+res://scenes/levels/inside.tscn
+res://scenes/user interface/ui.tscn
+res://globals/transition_layer.tscn
+res://globals/game_over.tscn
+res://scenes/houses/house.tscn
